@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=.;Database=BISimulator;Trusted_Connection=True;user Id=sa;password=zaQ@1234" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
